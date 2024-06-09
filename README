@@ -4,9 +4,7 @@ This is an quick and simply program to serve as an intorduction to the Java prog
 
 The program itself is a number guesser where users input a number and the program tells them if they guessed to high, to low, or guessed the number. The user is allowed a maximum of 20 attempts to guess the correct number before they are forced to give up. The program has two dificulty levels: Easy and Hard. For the Easy level, the number is between 0 and 100. For the hard level, the number is between 0 and 1000.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/PPnVH7nfCm4)
 
 # Development Environment
 
